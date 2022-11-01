@@ -110,5 +110,5 @@ t3 = Thread(target = slejka)
 
 t1.start()
 t2.start()
-tr.start()
+t3.start()
 
